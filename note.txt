@@ -1,0 +1,39 @@
+ <div class="row mt-5">
+         
+          <div class="col-md-4">
+
+            <div style="position: relative;"class="mt-4 mt-md-0">
+                <img class="w-100" src="https://images.woodenstreet.de/image/data/lounge-chairs/tisza-lounge-chair-velvet/chestnut-brown/chestnut-brown.jpg">
+
+                <div  style="position:absolute;bottom: 0px;"class="div2 d-flex justify-content-center align-items-center">
+                  <h3>VICE CABINET</h3>
+                </div>
+              </div>
+
+              <div style="position: relative;" class="mt-4">
+                <img class="w-100" src="https://expat-live.s3.ap-southeast-1.amazonaws.com/s3fs-public/styles/960_640/public/2021-10/Island%20Living%20960_3.jpg?itok=xXjbyfhq">
+                <div  style="position:absolute;bottom: 0px;"class="div2 d-flex justify-content-center align-items-center">
+                  <h3>SIDE TABLES</h3>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div style="position: relative;">
+             <img class="w-100 " src="https://www.thespruce.com/thmb/Tqses00jbXkhAqYzhYlA7mrVF7o=/1200x0/filters:no_upscale():max_bytes(150000):strip_icc()/Stocksy_txp3166e386ghb300_Medium_4400074-crop-8d97fd6be4ea4e959406ba251d513d13.jpg">
+             <div style="position:absolute;bottom: 0px;"id="div1" class="d-flex justify-content-center align-items-center">
+                 <h3>ROSEWOOD CLUB CHAIR</h3>
+             </div>
+            </div>
+           </div>
+        </div>
+
+
+
+-------------------------------------------
+
+        <div style="position: relative;">
+            <img class="w-100" src="https://www.bhadepay.com/assets/images/furniture-banner.png">
+            <div style="position:absolute;bottom: 0px;"id="div1" class="d-flex justify-content-center align-items-center">
+                <h3>ROSEWOOD CLUB CHAIR</h3>
+            </div>
+           </div>
